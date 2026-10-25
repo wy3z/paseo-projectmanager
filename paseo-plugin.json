@@ -1,0 +1,11 @@
+{
+  "id": "paseo-projectmanager",
+  "name": "Project manager",
+  "description": "A coordinator chat that keeps shared notes outside the repo, briefs worker agents, and tracks their PRs",
+  "media": [
+    "assets/screenshot.png"
+  ],
+  "requirements": {
+    "paseo": ">=0.12.0"
+  }
+}
